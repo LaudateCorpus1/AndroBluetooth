@@ -3,9 +3,6 @@
 #Mac
 .DS_Store
 
-#Eclipse
-.settings
-
 ### Android ###
 # Built application files
 *.apk
@@ -32,3 +29,6 @@ local.properties
 proguard/
 proguard-project.txt
 
+# Android Studio project files
+.idea/workspace.xml
+.idea/libraries
